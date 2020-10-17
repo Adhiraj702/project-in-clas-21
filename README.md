@@ -1,1 +1,2 @@
-# project-in-clas-21
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
